@@ -95,7 +95,7 @@ Showcasing my projects, skills, and engineering journey.
 
 🌐 **Portfolio:** https://mohamedsejibouallegue.tech
 
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/seji-bouall%C3%A8gue-8a4285294/
 
 📧 **Email:** MohamedSeji.Bouallegue@esprit.tn
 
