@@ -1,14 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;AI+Software+Engineer;Spring+Boot+%7C+React+%7C+Symfony;Always+Building+Something+New" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohamed Séji</h1>
+# 👋 Hi, I'm Mohamed Séji
 
-<h3 align="center">Full-Stack Software Engineer • AI Enthusiast • Software Engineering Student @ ESPRIT 🇹🇳</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Backend+Developer;AI+Software+Engineer;Spring+Boot+%7C+React+%7C+Symfony" />
 
-<p align="center">
+<p>
   <a href="https://mohamedsejibouallegue.tech">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,87 +16,116 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bouallegueMohamedSeji&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/bouallegueMohamedSeji?label=Followers&style=social" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=bouallegueMohamedSeji&label=Profile%20Views&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/bouallegueMohamedSeji?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a Software Engineering student at **ESPRIT** passionate about building scalable backend systems, modern web applications, and AI-powered software. I enjoy turning ideas into production-ready applications using modern technologies.
+I'm a **Software Engineering student at ESPRIT** passionate about backend development, modern web applications, and AI-powered software.
 
----
-
-## 💼 Open To
-
-- Full-Stack Software Engineer Internships
-- AI Software Engineering Opportunities
+I enjoy designing secure REST APIs, building full-stack applications, and integrating AI into real-world products. My goal is to build software that's reliable, scalable, and easy to maintain.
 
 ---
 
-## 🚀 What I Build
+## 💼 Interested In
 
-- 💻 Full-Stack Web Applications
-- ☕ Backend APIs with Spring Boot & Symfony
-- 🤖 AI-Powered Applications using OpenAI APIs
-- 🔐 Secure Authentication (JWT & RBAC)
-- 🐳 Dockerized Applications
-- ⚙️ RESTful APIs & Database Design
+- Full-Stack Development
+- AI Software Engineering
+- Open Source Collaboration
 
 ---
 
 ## 🛠 Tech Stack
 
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,react,nodejs,js,python,mysql,postgres,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=java,php,js,python,sql" />
 </p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,symfony,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Database & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,linux" />
+</p>
+
+### AI
+
+- OpenAI API
+- Prompt Engineering
+- LLM Integration
+- AI Automation
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🤖 SynergyGig
-AI-powered HR platform featuring:
 
+AI-powered HR platform designed to simplify recruitment and employee management.
+
+**Highlights**
 - AI Resume Screening
+- JWT Authentication & RBAC
 - WebRTC Video Meetings
 - Live Speech-to-Text
-- JWT Authentication
-- Role-Based Access Control
+- Symfony REST API
+- MySQL Database
 
 🔗 https://synergygig.work.gd
 
-### 🌐 Portfolio
+---
 
-Showcasing my projects, skills, and engineering journey.
+### 🌐 Personal Portfolio
+
+A responsive portfolio showcasing my projects, technical skills, and engineering journey.
 
 🔗 https://mohamedsejibouallegue.tech
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bouallegueMohamedSeji&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouallegueMohamedSeji&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bouallegueMohamedSeji&theme=tokyonight" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bouallegueMohamedSeji&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouallegueMohamedSeji&layout=compact&theme=tokyonight"/>
 
-## 📫 Connect With Me
+<img src="https://streak-stats.demolab.com?user=bouallegueMohamedSeji&theme=tokyonight"/>
 
-🌐 **Portfolio:** https://mohamedsejibouallegue.tech
-
-💼 **LinkedIn:** https://www.linkedin.com/in/seji-bouall%C3%A8gue-8a4285294/
-
-📧 **Email:** MohamedSeji.Bouallegue@esprit.tn
+</div>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+## 📫 Let's Connect
+
+📧 **MohamedSeji.Bouallegue@esprit.tn**
+
+🌐 **https://mohamedsejibouallegue.tech**
+
+💼 **https://www.linkedin.com/in/seji-bouall%C3%A8gue-8a4285294/**
+
+---
+
+<div align="center">
+
+**Always learning, always building, always improving. 🚀**
+
+</div>
