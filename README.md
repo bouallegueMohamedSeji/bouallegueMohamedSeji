@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohamed Séji
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Backend+Developer;AI+Software+Engineer;Spring+Boot+%7C+React+%7C+Symfony" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;AI+Software+Engineer" />
 
 <p>
   <a href="https://mohamedsejibouallegue.tech">
