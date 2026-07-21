@@ -104,11 +104,13 @@ A responsive portfolio showcasing my projects, technical skills, and engineering
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bouallegueMohamedSeji&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bouallegueMohamedSeji&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouallegueMohamedSeji&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bouallegueMohamedSeji&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=bouallegueMohamedSeji&theme=tokyonight"/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=bouallegueMohamedSeji&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
