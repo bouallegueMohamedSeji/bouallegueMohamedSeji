@@ -34,7 +34,6 @@ I'm a Software Engineering student at **ESPRIT** passionate about building scala
 ## 💼 Open To
 
 - Full-Stack Software Engineer Internships
-- Backend Java / Spring Boot Roles
 - AI Software Engineering Opportunities
 
 ---
